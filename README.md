@@ -1,1 +1,1 @@
-where am I?
+where am I? $ wc -l file
