@@ -1,1 +1,1 @@
-where am I? $ wc -l file
+Shell, init files, variables and expansions
